@@ -1,2 +1,1 @@
-# Aws-node.js-demo
-Sample Application
+# AWS Elastic Beanstalk NodeJS application template
